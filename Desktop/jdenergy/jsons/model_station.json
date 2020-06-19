@@ -1,0 +1,5 @@
+{"id":1,"timePriceId":1,"strategyId":1,"name":"01#电站","address":"西安*******",
+  "longitude":108.947,"latitude":34.2598,"afterSalesCall":"18199998888","description":"",
+  "maxPower":150000.0,  "capacity":41280.0,"commissioningTime":"2019-03-02 08:00:00","power":0.0,
+  "remainingBattery":0.0,"soc":0.0,  "equipmentTotalCount":0,"onlineEquipmentCount":0,
+  "operationHours":0,"type":null,"version":"null","@JsonKey(name: 'num') int":"number"}

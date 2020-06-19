@@ -1,0 +1,7 @@
+
+{"id":2006190923451851,"stationId":3,"name":"03030101#eBlock","parentEquipmentId":2006190923451841,
+  "typeId":3,"status":null,"typeName":"eBlock","parentEquipmentName":"020301#能量链",
+  "parentNumbering":"020301","numbering":"03030101",
+  "cellCount":224,"temperatureSensorCount":224,"capacity":1720,"maxPower":625,
+  "@JsonKey(name: 'num') int":"numid"
+}

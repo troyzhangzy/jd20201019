@@ -1,0 +1,166 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4d0e0a48ab862e68143543174c68c45e",
+      "css": "visibility_off",
+      "code": 59392,
+      "src": "material"
+    },
+    {
+      "uid": "654ea230241c7345ba5223fb4970ec78",
+      "css": "https",
+      "code": 59393,
+      "src": "material"
+    },
+    {
+      "uid": "3392068839495c421c04eff00fc39cc2",
+      "css": "person",
+      "code": 59394,
+      "src": "material"
+    },
+    {
+      "uid": "1fa886ec7daec6fd948b7c83064b9bdc",
+      "css": "visibility",
+      "code": 59395,
+      "src": "material"
+    },
+    {
+      "uid": "34cb6ce62bf3f1efd59e2f5eb0d79f82",
+      "css": "wechat",
+      "code": 61911,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5c5bc6f4c6030254f642f00104a6bdeb",
+      "css": "add_circle",
+      "code": 59396,
+      "src": "material"
+    },
+    {
+      "uid": "24f6c08bd38dc0e137e4b1b98d7d24e2",
+      "css": "add_circle_outline",
+      "code": 59397,
+      "src": "material"
+    },
+    {
+      "uid": "c385e93980fe5148a1f8891426086d06",
+      "css": "battery_std",
+      "code": 59398,
+      "src": "material"
+    },
+    {
+      "uid": "2f6c683eeb43ac787e07cf522475d496",
+      "css": "filter_center_focus",
+      "code": 59399,
+      "src": "material"
+    },
+    {
+      "uid": "ca150bc10f3a816413c7687c59dbe118",
+      "css": "home",
+      "code": 59400,
+      "src": "material"
+    },
+    {
+      "uid": "2afb8bf50075799a904aee923b494819",
+      "css": "network_check",
+      "code": 59401,
+      "src": "material"
+    },
+    {
+      "uid": "7c31fffa1d140a037558f328c8c1a54d",
+      "css": "notifications",
+      "code": 59402,
+      "src": "material"
+    },
+    {
+      "uid": "cbd58944d64f0e3a47d7cc39b4850302",
+      "css": "settings_input_component",
+      "code": 59403,
+      "src": "material"
+    },
+    {
+      "uid": "7f85dc488759130cd55bf15671f5920f",
+      "css": "widgets",
+      "code": 59404,
+      "src": "material"
+    },
+    {
+      "uid": "5f61f8a682b77d2529296a8061bf9597",
+      "css": "yen",
+      "code": 61783,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9f2a863ecadc5e9e80254f8a23806f7d",
+      "css": "developer_board",
+      "code": 59405,
+      "src": "material"
+    },
+    {
+      "uid": "b9a6db551f628450d723cf22797111d2",
+      "css": "dashboard",
+      "code": 59406,
+      "src": "material"
+    },
+    {
+      "uid": "bd94bfbee8c7d8899d7660a28fd14df6",
+      "css": "camera_roll",
+      "code": 59407,
+      "src": "material"
+    },
+    {
+      "uid": "2a19573eccff56a44421a58a893e3a02",
+      "css": "flash_auto",
+      "code": 59408,
+      "src": "material"
+    },
+    {
+      "uid": "0ebafcb46192a04ed320d005473efe65",
+      "css": "flash_on",
+      "code": 59409,
+      "src": "material"
+    },
+    {
+      "uid": "b4f1b4565c821f0159d37e595e49cd3f",
+      "css": "battery_unknown",
+      "code": 59410,
+      "src": "material"
+    },
+    {
+      "uid": "b1c822864b8f33a31287d4c0805b3834",
+      "css": "battery_charging_full",
+      "code": 59411,
+      "src": "material"
+    },
+    {
+      "uid": "6183c6950a4e5f4ac2590b0cb6ca461c",
+      "css": "battery_alert",
+      "code": 59412,
+      "src": "material"
+    },
+    {
+      "uid": "7d85bab52016c1a1834e13bfeee98b1c",
+      "css": "chevron_right",
+      "code": 59413,
+      "src": "material"
+    },
+    {
+      "uid": "13a49a07f56790c4da941d505aa378d8",
+      "css": "chevron_left",
+      "code": 59414,
+      "src": "material"
+    },
+    {
+      "uid": "075315079e104dc58d9e4a364cea4be2",
+      "css": "error_outline",
+      "code": 59415,
+      "src": "material"
+    }
+  ]
+}
